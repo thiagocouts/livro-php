@@ -1,0 +1,7 @@
+2017-05-04 23:38:50 :: Inserindo produto novo
+2017-05-04 23:38:50 :: INSERT INTO produto (id, descricao, estoque, preco_custo, preco_venda, 
+										codigo_barras, data_cadastro, origem)
+										VALUES ('16', 'Chocolate Branco', '100', 
+												'5', '10', 
+												'2345654567', '2017-05-04', 
+												'N')
